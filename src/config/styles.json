@@ -1,0 +1,20 @@
+[
+  {
+    "id": "locusq-maps-basic",
+    "title": "LocusQ Maps Baisc",
+    "url": "http://ip_or_domain/styles/locusq/style.json",
+    "thumbnail": "https://maputnik.github.io/thumbnails/klokantech-basic.png"
+  },
+  {
+    "id": "locusq-maps-light",
+    "title": "LocusQ Maps Light",
+    "url": "http://ip_or_domain/styles/locusq/style.json",
+    "thumbnail": "https://maputnik.github.io/thumbnails/klokantech-basic.png"
+  },
+  {
+    "id": "locusq-maps-dark",
+    "title": "LocusQ Maps Dark",
+    "url": "http://ip_or_domain/styles/locusq/style.json",
+    "thumbnail": "https://maputnik.github.io/thumbnails/klokantech-basic.png"
+  }
+]
