@@ -233,10 +233,10 @@ export default class AppToolbar extends React.Component {
             <MdFileDownload />
             <IconText>Export</IconText>
           </ToolbarAction>
-          {/* <ToolbarAction wdKey="nav:sources" onClick={this.props.onToggleModal.bind(this, 'sources')}>
+          <ToolbarAction wdKey="nav:sources" onClick={this.props.onToggleModal.bind(this, 'sources')}>
             <MdLayers />
             <IconText>Data Sources</IconText>
-          </ToolbarAction> */}
+          </ToolbarAction>
           <ToolbarAction wdKey="nav:settings" onClick={this.props.onToggleModal.bind(this, 'settings')}>
             <MdSettings />
             <IconText>Style Settings</IconText>
